@@ -20,7 +20,8 @@ Software Development Engineer in Test.
 <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height = "50px" width = "50px" hspace="5px" /> 
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height = "50px" width = "50px" hspace="5px" /> 
 > [!Note]
-> 
+>
+
 >  [!Tip]
 > Key information users need to know to achieve their goal.
 <!---
