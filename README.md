@@ -2,6 +2,7 @@
 # 💫 About Me:
 Proficient in automation and manual testing, adept at API and mobile testing. Skilled in identifying defects and ensuring software quality. Possesses strong analytical abilities and attention to detail. Eager to contribute to innovative software solutions as a Software Development Engineer in Test.
 
+[![](https://visitcount.itsvg.in/api?id=Manisha-Rana12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manisha-rana-a963652b2) 
@@ -34,6 +35,5 @@ Proficient in automation and manual testing, adept at API and mobile testing. Sk
 ![](https://github-contributor-stats.vercel.app/api?username=Manisha-Rana12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Manisha-Rana12&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
