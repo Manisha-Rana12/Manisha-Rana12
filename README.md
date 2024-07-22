@@ -1,12 +1,12 @@
-##  Hi I am Manisha Rana
-Proficient in automation and manual testing, adept at
-API and mobile testing. Skilled in identifying defects
-and ensuring software quality. Possesses strong
-analytical abilities and attention to detail. Eager to
-contribute to innovative software solutions as a
-Software Development Engineer in Test.
-## Techstack 
-![]
+# Hi I am Manisha Rana<br>
+# 💫 About Me:
+Proficient in automation and manual testing, adept at<br>API and mobile testing. Skilled in identifying defects<br>and ensuring software quality. Possesses strong<br>analytical abilities and attention to detail. Eager to<br>contribute to innovative software solutions as a<br>Software Development Engineer in Test.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manisha-rana-a963652b2) 
+
+# 💻 Tech Stack:
 <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" height = "50px" width = "50px" hspace="5px" />
 <img src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" height = "50px" width = "50px" hspace="5px" />
 <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" height = "50px" width = "50px" hspace="5px" />
@@ -19,12 +19,20 @@ Software Development Engineer in Test.
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height = "50px" width = "50px" hspace="5px" />
 <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height = "50px" width = "50px" hspace="5px" /> 
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" height = "50px" width = "50px" hspace="5px" /> 
-> [!Note]
->
+<!--
 
->  [!Tip]
-> Key information users need to know to achieve their goal.
-<!---
-Manisha-Rana12/Manisha-Rana12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+-->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Manisha-Rana12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Manisha-Rana12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manisha-Rana12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Manisha-Rana12&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Manisha-Rana12&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
