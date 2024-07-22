@@ -1,12 +1,13 @@
 # Hi I am Manisha Rana<br>
 # 💫 About Me:
-Proficient in automation and manual testing, adept at<br>API and mobile testing. Skilled in identifying defects<br>and ensuring software quality. Possesses strong<br>analytical abilities and attention to detail. Eager to<br>contribute to innovative software solutions as a<br>Software Development Engineer in Test.
+Proficient in automation and manual testing, adept at API and mobile testing. Skilled in identifying defects and ensuring software quality. Possesses strong analytical abilities and attention to detail. Eager to contribute to innovative software solutions as a Software Development Engineer in Test.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manisha-rana-a963652b2) 
 
 # 💻 Tech Stack:
+![]
 <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" height = "50px" width = "50px" hspace="5px" />
 <img src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" height = "50px" width = "50px" hspace="5px" />
 <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" height = "50px" width = "50px" hspace="5px" />
