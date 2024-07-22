@@ -1,4 +1,4 @@
-# Hi👋 I am Manisha Rana<br>
+# Hi I am Manisha Rana<br>
 # 💫 About Me:
 Proficient in automation and manual testing, adept at API and mobile testing. Skilled in identifying defects and ensuring software quality. Possesses strong analytical abilities and attention to detail. Eager to contribute to innovative software solutions as a Software Development Engineer in Test.
 
